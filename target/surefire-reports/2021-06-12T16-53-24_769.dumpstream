@@ -1,0 +1,4 @@
+# Created at 2021-06-12T16:53:25.046
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Ragu\sfdc-wd-rest\sfdc-wd-rest\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
