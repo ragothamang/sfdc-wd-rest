@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="22701" started-at="2021-06-11T17:25:58Z" finished-at="2021-06-11T17:26:20Z">
+  <suite started-at="2021-06-12T12:18:01Z" name="Suite" finished-at="2021-06-12T12:18:23Z" duration-ms="22064">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22701" started-at="2021-06-11T17:25:58Z" finished-at="2021-06-11T17:26:20Z">
+    <test started-at="2021-06-12T12:18:01Z" name="Test" finished-at="2021-06-12T12:18:23Z" duration-ms="22064">
       <class name="com.sfdc.testcases.SFDC001_LoginPage">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@3e58a80e]" name="beforeSuite" is-config="true" duration-ms="270" started-at="2021-06-11T17:25:57Z" finished-at="2021-06-11T17:25:58Z">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@554e218]" started-at="2021-06-12T12:18:01Z" name="beforeSuite" finished-at="2021-06-12T12:18:01Z" duration-ms="470" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="setValues()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@3e58a80e]" name="setValues" is-config="true" duration-ms="1" started-at="2021-06-11T17:25:58Z" finished-at="2021-06-11T17:25:58Z">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@554e218]" started-at="2021-06-12T12:18:01Z" name="setValues" finished-at="2021-06-12T12:18:01Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setValues -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@3e58a80e]" name="beforeClass" is-config="true" duration-ms="3546" started-at="2021-06-11T17:25:58Z" finished-at="2021-06-11T17:26:01Z">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@554e218]" started-at="2021-06-12T12:18:01Z" name="beforeClass" finished-at="2021-06-12T12:18:05Z" duration-ms="3373" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@3e58a80e]" name="beforeMethod" is-config="true" duration-ms="12626" started-at="2021-06-11T17:26:01Z" finished-at="2021-06-11T17:26:14Z">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@554e218]" started-at="2021-06-12T12:18:05Z" name="beforeMethod" finished-at="2021-06-12T12:18:17Z" duration-ms="12013" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="createFollowUpEvent()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@3e58a80e]" name="createFollowUpEvent" duration-ms="6514" started-at="2021-06-11T17:26:14Z" finished-at="2021-06-11T17:26:20Z">
+        <test-method signature="createFollowUpEvent()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@554e218]" started-at="2021-06-12T12:18:17Z" name="createFollowUpEvent" finished-at="2021-06-12T12:18:23Z" duration-ms="6666" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createFollowUpEvent -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@3e58a80e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-06-11T17:26:20Z" finished-at="2021-06-11T17:26:20Z">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@554e218]" started-at="2021-06-12T12:18:23Z" name="afterMethod" finished-at="2021-06-12T12:18:23Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@3e58a80e]" name="afterSuite" is-config="true" duration-ms="219" started-at="2021-06-11T17:26:20Z" finished-at="2021-06-11T17:26:21Z">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.sfdc.testcases.SFDC001_LoginPage@554e218]" started-at="2021-06-12T12:18:23Z" name="afterSuite" finished-at="2021-06-12T12:18:24Z" duration-ms="248" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
