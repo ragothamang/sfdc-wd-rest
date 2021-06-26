@@ -154,6 +154,7 @@ public class WebDriverServiceImpl extends WebDriverListener implements WebDriver
 
 	public void startApp(String browser) {
 		startApp(browser, false);
+//		startApp(browser, true);
 	}
 
 

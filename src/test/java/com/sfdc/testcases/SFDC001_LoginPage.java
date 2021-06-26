@@ -30,6 +30,7 @@ public class SFDC001_LoginPage extends PreAndPost {
 		.typePassword("Gr@salesforce2021")
 		.clickLoginButton();		
 			
+		
 	}
 
 }
